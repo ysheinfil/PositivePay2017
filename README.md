@@ -2,13 +2,16 @@
 Cash Management
 
 ## Projects in Solution
-- BankFileLibrary
+### BankFileLibrary
   - VB.NET
-- BankFileTestProject
+### BankFileTestProject
   - C#.NET
-- ConsoleAppBench
+### ConsoleAppBench
   - VB.NET
-- PositivePayMonitor
+### PositivePayMonitor
   - C#.NET
-- PositivePayMonitorService
+### PositivePayMonitorService
   - C#.NET
+
+## Third Party Software
+### Log4Net
