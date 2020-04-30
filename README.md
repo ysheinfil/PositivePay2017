@@ -20,8 +20,12 @@ Cash Management
   - Intended as a workbench for experimenting features while working on them.
 ### PositivePayMonitor
   - C#.NET
+  - Windows Forms Program
+  - Watches a folder. When files are added to the folder, they are put onto a queue. At prescribed intervals, files get processed.
 ### PositivePayMonitorService
   - C#.NET
+  - Windows service (program without a user interface, similar to a UNIX daemon)
+  
 
 ## Third Party Software
 ### Log4Net
